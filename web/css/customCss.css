@@ -1,0 +1,394 @@
+/*INDEX PAGE*/
+#main
+{
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+.navigationbar
+{
+    background: black;
+    font-family: 'Anton', sans-serif;
+}
+h1, h2, h3
+{
+    font-family: 'Anton', sans-serif;
+}
+#navforsmall
+{
+    font-size: large;
+}
+.navbar-nav > li > .dropdown-menu 
+{
+    background-color: #e7e7e7;
+    font-size: large;
+}
+.navbar-nav > li > .dropdown-menu a
+{
+    color: #555555;  
+}
+#logo
+{
+    margin-top: -15px;
+}
+.div1
+{
+    background:url("../images/bg.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-origin: border-box;
+    min-height: 101%; /*for chrome*/
+    height: 101%; /*for firefox*/ 
+    margin-top: 2%;
+    padding-bottom: 2%;
+}
+.div1 > img
+{
+    margin: auto;
+    padding-top: 8vh;
+}
+.div1 > h1
+{
+    text-align: center;
+    font-weight: bolder;
+    color: white;
+    font-family: calibri;
+    text-shadow: 5px 0 1px black;
+}
+.cbg
+{
+    background: #ebebe0;
+    padding: 2%;
+}
+.content1 
+{
+    margin: auto;
+    padding: 1%;
+    width: 85%;
+    background-position: center;
+}
+.content1 h1
+{
+    text-align: center;
+    font-size: 5rem;
+    text-shadow: 1px 1px 2px grey;
+}
+.content1 p
+{
+    margin-top: 5%;
+    margin-right: 2%;
+    margin-left: 2%;
+    text-align: justify;
+    font-size: 2.5rem;
+    padding: 0.5%;
+}
+.content2
+{
+    margin: auto;
+}
+.content2 h2
+{
+    text-align: center;
+    font-size: 3rem;
+}
+.contact
+{
+    width: 100%;
+    background: red;
+    border-radius: 1rem;
+    padding: 2%;
+}
+.contact a
+{
+    font-size: 2rem;
+    text-decoration: none;
+    color: white;
+}
+.c2child
+{
+    padding: 1%;
+}
+.testimonials
+{
+    background: url(../images/testimonial.jpg);
+    background-attachment: fixed;
+    background-origin: border-box;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 100%;
+    padding: 2%;
+}
+.testcontent
+{
+    width: 80%;
+    margin: auto;
+    padding: 2%;
+}
+.testcontent h3
+{
+    font-size: 3rem;
+    color: white;
+    text-shadow: 0 0 5px black;
+    text-align: justify;
+    font-family: 'Anton', sans-serif;
+}
+.footer, .footer1
+{
+    width: 100%;
+    padding: 1%;
+    background: black;
+    box-shadow: 5px 0 5px white;
+    clear:both;
+    bottom: 0;
+}
+.footcontent
+{
+    width: 80%;
+    margin: auto;
+    color: white;
+    font-family: Calibri;
+    font-size: 2rem; 
+    font-weight: bold;
+}
+img
+{
+    border-radius: 2%;
+}
+
+/*--xoxo--INDEX--xoxo--*/
+
+/*COMPANY CULTURE PAGE*/
+
+.culture
+{
+    width: 95%;
+    margin: auto;
+}
+.section
+{
+    width:60%;
+    margin-left: 10%;
+    float:left;
+    padding:2%;
+    text-align: justify;
+    font-size: 1.5rem;
+}
+.links
+{
+    margin-top: 2%;
+    width:25%;
+    float:right;
+}
+.footer1
+{
+    clear: both;
+}
+.heading
+{
+    padding: 3%;
+    width: 100%;
+    background: grey;
+    color: white;
+}
+.heading h1
+{
+    margin-top: 6%;
+}
+article ul
+{
+    list-style-type: none;
+    font-size: 1.5rem;
+}
+
+/*--xoxo--CULTURE--xoxo--*/
+
+/*CONTACT PAGE*/
+
+.contactmain
+{
+    width: 70%;
+    margin: auto;
+    margin-top: 1%;
+    padding: 1% 2% 2% 2%;
+    font-family: 'Anton', sans-serif;
+}
+.address
+{
+    margin-left: 5%;
+    font-size: 2rem;
+    float: left;
+}
+.contactform
+{
+    margin-left: 5%;
+}
+/*--xoxo--CONTACT--xoxo*/
+
+/*Job Application Page*/
+
+.careers
+{
+    width:95%;
+    margin: auto;
+}
+.section1
+{
+    width:75%;
+    margin-left:10%;
+    float:left;
+    padding:2%;
+    font-size: 1.7rem;
+    text-align: justify
+}
+p img
+{
+   float: right;
+   margin-left: 5%;
+   margin-top: -2%;
+}
+.Application
+{
+    width:30%;
+    margin-left:12%;
+    float:left;
+    padding-bottom: 1%;
+}
+.links1
+{
+    margin-top:1%;
+    margin-right:10%;
+    float:right;
+    width:25%;
+}
+
+/*--XOXO Job Application PageXOXO--*/
+
+/*SERVICES SECTION*/
+
+/*Crossing Guards*/
+.linksServices
+{
+    margin-top:2%;
+    margin-right: 3%; 
+    float:right;
+    width:25%;
+}
+.ul
+{
+    list-style-type: disc;
+    font-size: 1.5rem;
+}
+.crossing
+{
+    padding: 1%;
+}
+/*--xoxo--Crossing Guards--xoxo--*/
+
+/*Training*/
+
+.training
+{
+    padding: 3%;
+    margin: auto;
+    text-align: justify;
+}
+.oLinks
+{
+    padding-left: 2%;
+    padding-top: 2%;
+}
+.oLinks1
+{
+    margin: 2%;
+    float: right;
+    width: 25%;
+}
+
+/*--xoxo--Training--xoxo--*/
+
+/*--Training Services--*/
+
+.Facilities
+{
+    width: 80%;
+    padding: 3%;
+    margin: auto;
+    text-align: justify;
+}
+
+/*--xoxo--Training Services--xoxo--*/
+
+/*--Clients--*/
+
+.clients
+{
+    width: 80%;
+    margin: auto;
+    padding: 2%;
+}
+.r1
+{
+    padding: 5%;
+}
+/*--xoxo--Clients--xoxo--*/
+/*--xoxo--SERVICES SECTION--xoxo--*/
+
+.s1
+{
+    padding: 2%;
+    font-size: 1.7rem;
+}
+.s1 article
+{
+    padding: 2%;
+}
+.surveillance
+{
+    width: 80%;
+    padding: 3%;
+    padding-left: 0;
+    margin: auto;
+    text-align: justify;
+}
+.service
+{
+    width: 80%;
+    padding: 3%;
+    margin: auto;
+    text-align: justify;
+}
+
+.residence
+{
+    width: 80%;
+    padding: 3%;
+    margin: auto;
+    text-align: justify;   
+}
+.MP h1{
+    font-family: 'Anton', sans-serif;
+}
+
+.MP hr{
+    color: blue;
+    width: 40%;
+    border-width: 3px;
+}
+
+/*--About Us Section--*/
+
+.aboutmain
+{
+    width: 80%;
+    margin: auto;
+    padding: 2%;
+    text-align: justify;
+}
+.contentabout
+{
+    padding-right: 5%;
+}
+
+/*----*/

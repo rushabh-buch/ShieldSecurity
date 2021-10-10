@@ -1,0 +1,145 @@
+.service
+    {
+    width: 80%;
+    padding: 3%;
+    margin: auto;
+    text-align: justify;
+}
+
+.residence{
+    width: 80%;
+    padding: 3%;
+    margin: auto;
+    text-align: justify;   
+}
+
+.event{
+    width: 80%;
+    padding: 3%;
+    margin: auto;
+    text-align: justify;
+}
+
+.training
+{
+    width: 80%;
+    padding: 3%;
+    margin: auto;
+    text-align: justify;
+}
+
+#s2
+{
+    padding: 2%;
+    font-size: 1.7rem;
+}
+
+.Facilities
+{
+    width: 80%;
+    padding: 3%;
+    margin: auto;
+    text-align: justify;
+}
+
+.surveillance{
+    width: 80%;
+    padding: 3%;
+    padding-left: 0;
+    margin: auto;
+    text-align: justify;
+}
+
+.MP{
+    width: 80%;
+    padding: 3%;
+    margin: auto;
+    text-align: justify;   
+} 
+
+.MP h1{
+    font-family: 'Anton', sans-serif;
+}
+
+.MP hr{
+    color: blue;
+    width: 40%;
+    border-width: 3px;
+}
+
+.s1
+{
+    padding: 2%;
+    font-size: 1.7rem;
+}
+
+.s1 article
+{
+    padding: 2%;
+}
+
+.heading{
+    background-color: grey;
+    margin-top: 0%;
+    padding: 2%;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+}
+
+.heading h1{
+    padding: 1%;
+}
+
+.section
+{
+    width:60%;
+    margin-left: 10%;
+    float:left;
+    padding:2%;
+    text-align: justify;
+    font-size: 1.5rem;
+}
+
+.crossing
+{
+    padding: 1%;
+}
+
+.ul
+{
+    list-style-type: disc;
+    font-size: 1.5rem;
+}
+
+.oLinks h3{
+    font-family: 'Anton', sans-serif;
+}
+
+.oLinks
+{
+    margin-top:2%;
+    margin-right:2%;
+    float:right;
+}
+
+.footer 
+{
+    clear: both;
+    width: 100%;
+    padding: 1%;
+    background: black;
+    box-shadow: 5px 0 5px white;
+}
+.footcontent
+{
+    width: 80%;
+    margin: auto;
+    color: white;
+    font-family: Calibri;
+    font-size: 2rem; 
+    font-weight: bold;
+}
+
+
+
+

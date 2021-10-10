@@ -1,0 +1,53 @@
+.Facilities
+{
+    width: 80%;
+    padding: 3%;
+    margin: auto;
+    text-align: justify;
+}
+
+
+
+.s1
+{
+    padding: 2%;
+    font-size: 1.7rem;
+}
+.s1 article
+{
+    padding: 2%;
+}
+
+
+.oLinks
+{
+    float: right;
+    padding-left: 2%;
+    padding-top: 2%;
+}
+
+.heading{
+    background-color: grey;
+    margin-top: 0%;
+    padding: 2%;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+}
+
+.footer 
+{
+    clear: both;
+    width: 100%;
+    padding: 1%;
+    background: black;
+    box-shadow: 5px 0 5px white;
+}
+.footcontent
+{
+    width: 80%;
+    margin: auto;
+    color: white;
+    font-family: Calibri;
+    font-size: 2rem; 
+    font-weight: bold;
+}
